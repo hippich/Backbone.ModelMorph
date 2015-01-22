@@ -1,0 +1,28 @@
+{
+  "name": "backbone.modelmorph",
+  "version": "1.0.1",
+  "homepage": "https://github.com/hippich/Backbone.ModelMorph",
+  "authors": [
+    "Rhys Brett-Bowen <rhysbrettbowen@gmail.com>",
+    "Pavel Karoukin <pavel@karoukin.us>"
+  ],
+  "description": "Allows the definition of a schema that will create a new model with computed properties to be created from another model. Useful for things like rivets where we want to provide computed properties that are dynamic and will change dependant on the original model.",
+  "dependencies": {
+    "backbone": "1.x.x"
+  },
+  "main": "morph.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "backbone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

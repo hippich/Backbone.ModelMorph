@@ -54,8 +54,18 @@ orig.get('firstName'); // edward
 
 ```
 
+#Installation
+
+```
+    bower install backbone.modelmorph --save
+```
+
 #Changelog
+
+##v1.0.1
+
+* Publish on bower.io
 
 ##v1.0.0
 
--initial versioning
+* initial versioning
